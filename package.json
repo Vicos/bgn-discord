@@ -1,0 +1,18 @@
+{
+  "name": "bgg-discord",
+  "version": "1.0.0",
+  "description": "A Google Apps Script to publish calendar event to Discord",
+  "author": "Florent Vicard",
+  "license": "ISC",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vicos/bgn-discord.git"
+  },
+  "scripts": {
+    "push": "clasp push"
+  },
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.11"
+  }
+}

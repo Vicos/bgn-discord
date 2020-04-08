@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        // Support GApps V8 in appsscript.json
+        "target": "ES2019"
+    }
+}
